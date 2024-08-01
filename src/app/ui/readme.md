@@ -1,0 +1,1 @@
+Contiene todos los componentes de la interfaz de usuario de su aplicación, como tarjetas, tablas y formularios.
